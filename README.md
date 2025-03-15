@@ -1,2 +1,22 @@
 # List_of_Internet_Scanner_IPs
- List of Internet Scanner IPs by /24 range
+ List of Internet Scanner IPs by /24 range intended as firewall rule for blocking scanners.
+ 
+ List is based on probes with PTRs matching the following domains:
+ 
+ - stretchoid.com
+ - starttls-virginia.securing-email.com
+ - censys-scanner.com
+ - internet-measurement.com
+ - census.shodan.io
+ - probe.onyphe.net
+ - unused-space.coop.net
+ - shadowserver.org
+ - internet-census.org
+ - prod.cyberresilience.io
+ - scanning.cybcube.com
+ - do.binaryedge.ninja
+ - reverse.superonline.net
+ - survey.inspici.com
+ - quadmetrics.com
+
+ The list will be updated periodically as new ranges are found.
