@@ -1,5 +1,5 @@
 # List_of_Internet_Scanner_IPs
- List of Internet Scanner IPs by /24 range intended as firewall rule for blocking scanners.
+ List of comma separated Internet Scanner IPs by /24 range intended as firewall rule for blocking scanners.
  
  List is based on probes with PTRs matching the following domains:
  
