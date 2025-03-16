@@ -19,4 +19,4 @@
  - survey.inspici.com
  - quadmetrics.com
 
- The list is updated daily.
+ The list is updated as new IPs are found.
