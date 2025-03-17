@@ -1,7 +1,7 @@
 # List_of_Internet_Scanner_IPs
  List of comma separated Internet Scanner IPs by /24 range intended as firewall rule for blocking scanners.
  
- There are currently ***87*** IP ranges on the list.
+ There are currently ***88*** IP ranges on the list.
  
  List is based on probes with PTRs matching the following domains:
  
@@ -22,3 +22,5 @@
  - quadmetrics.com
 
  The list is updated as new IPs are found.
+ 
+ Included is UpdateScannerFWRule.ps1 that will automatically create or update firewall rule 'Internet_Scanners_Blocklist'. Run daily from task scheduler with administrator privileges.
