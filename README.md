@@ -20,6 +20,7 @@
  - reverse.superonline.net
  - survey.inspici.com
  - quadmetrics.com
+ - internettl.org
 
  The list is updated as new IPs are found.
  
