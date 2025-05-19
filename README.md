@@ -1,7 +1,7 @@
 # List_of_Internet_Scanner_IPs
  List of comma separated Internet Scanner IPs by /24 range intended as firewall rule for blocking scanners.
  
- There are currently ***279*** IP ranges on the list.
+ There are currently ***280*** IP ranges on the list.
  
  List is based on probes with PTRs matching the following domains:
  
