@@ -22,6 +22,13 @@
  - quadmetrics.com
  - internettl.org
  - scan.cypex.ai
+ - mx-check.com
+ - hubucoapp.com
+ - briteverify.com
+ - mailboxvalidator.com
+ - emailverify.net
+ - bouncer.cloud
+ - mlcheck.io
 
  The list is updated as new IPs are found.
  
